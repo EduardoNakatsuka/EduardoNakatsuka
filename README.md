@@ -1,6 +1,6 @@
 ### WHOAMI TO DISAGREE?👋
 
-Passionate Full Stack Web Developer, loves watching anime, studying, travelling, and occasionally rides dirt bikes.
+Passionate Full Stack Web Developer, loves watching TV, studying, travelling, and occasionally rides dirt bikes.
 
 [![Php Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=Debian&logoColor=white&link=https://php.net)](https://php.net)
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white&link=https://laravel.com)](https://laravel.com)
